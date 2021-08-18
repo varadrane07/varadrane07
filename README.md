@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varadrane07
 - 👀 I’m interested in Javascript and Discord
-- 🌱 I’m currently learning Full Stach Development
+- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me [Facebook](https://www.facebook.com/varad.rane.125/) [Instagram]()
 
 <!---
